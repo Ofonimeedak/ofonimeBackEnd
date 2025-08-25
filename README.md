@@ -1,0 +1,2 @@
+This is my first backend project using node.js on an express framework. It is exciting learning this tech stack and i look forward to using this newly aquired skill to solve problems and contribute to the growth business around the world
+I intend to carry out 7 legacy project  to hone my skills. This project will be made public for fine tune, critism by other senior developers and as well serve as an inspiration to upcoming fullstack deveolpers.
